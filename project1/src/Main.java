@@ -16,5 +16,7 @@ public class Main {
         double biyoloji = input.nextDouble();
         System.out.println("mat notunuzu giriniz:");
         double mat = input.nextDouble();
-        double ort = (fizik + kimya + biyoloji + mat) / (double)4.0F;
+        double ort = (fizik + kimya + biyoloji + mat) / (double) 4.0F;
         System.out.println("Not ortalamaniz: " + ort);
+    }
+}
