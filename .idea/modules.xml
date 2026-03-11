@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Metotlar/Metotlar.iml" filepath="$PROJECT_DIR$/Metotlar/Metotlar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metotlar2/Metotlar2.iml" filepath="$PROJECT_DIR$/Metotlar2/Metotlar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metotlar3/Metotlar3.iml" filepath="$PROJECT_DIR$/Metotlar3/Metotlar3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metotlar_overloading/Metotlar_overloading.iml" filepath="$PROJECT_DIR$/Metotlar_overloading/Metotlar_overloading.iml" />
