@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Metotlar/Metotlar.iml" filepath="$PROJECT_DIR$/Metotlar/Metotlar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Metotlar2/Metotlar2.iml" filepath="$PROJECT_DIR$/Metotlar2/Metotlar2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Metotlar3/Metotlar3.iml" filepath="$PROJECT_DIR$/Metotlar3/Metotlar3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Metotlar_overloading/Metotlar_overloading.iml" filepath="$PROJECT_DIR$/Metotlar_overloading/Metotlar_overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metotlar/Metotlar2/Metotlar2.iml" filepath="$PROJECT_DIR$/Metotlar/Metotlar2/Metotlar2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metotlar/Metotlar3/Metotlar3.iml" filepath="$PROJECT_DIR$/Metotlar/Metotlar3/Metotlar3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metotlar/Metotlar_overloading/Metotlar_overloading.iml" filepath="$PROJECT_DIR$/Metotlar/Metotlar_overloading/Metotlar_overloading.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/asal_sayi/asal_sayi.iml" filepath="$PROJECT_DIR$/Recursion/asal_sayi/asal_sayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/desen/desen.iml" filepath="$PROJECT_DIR$/Recursion/desen/desen.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/r2/fibonacci.iml" filepath="$PROJECT_DIR$/Recursion/r2/fibonacci.iml" />
-      <module fileurl="file://$PROJECT_DIR$/project1/project1.iml" filepath="$PROJECT_DIR$/project1/project1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/project2/project2.iml" filepath="$PROJECT_DIR$/project2/project2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/project3/project3.iml" filepath="$PROJECT_DIR$/project3/project3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/project4/project4.iml" filepath="$PROJECT_DIR$/project4/project4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Temel Kavramlar/project1/project1.iml" filepath="$PROJECT_DIR$/Temel Kavramlar/project1/project1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Temel Kavramlar/project2/project2.iml" filepath="$PROJECT_DIR$/Temel Kavramlar/project2/project2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Temel Kavramlar/project3/project3.iml" filepath="$PROJECT_DIR$/Temel Kavramlar/project3/project3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Koşullu İfadeler/project4/project4.iml" filepath="$PROJECT_DIR$/Koşullu İfadeler/project4/project4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/basamaksayisi/r1.iml" filepath="$PROJECT_DIR$/Recursion/basamaksayisi/r1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/us_alma/us_alma.iml" filepath="$PROJECT_DIR$/Recursion/us_alma/us_alma.iml" />
     </modules>
